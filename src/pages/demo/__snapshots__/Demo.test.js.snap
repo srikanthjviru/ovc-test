@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match with snapshot 1`] = `
+<table
+  style={
+    Object {
+      "margin": "0px auto",
+      "maxWidth": 800,
+    }
+  }
+>
+  <thead>
+    <tr>
+      <th
+        style={
+          Object {
+            "textAlign": "left",
+          }
+        }
+      >
+        Name
+      </th>
+      <th
+        style={
+          Object {
+            "textAlign": "left",
+          }
+        }
+      >
+        Email
+      </th>
+      <th
+        style={
+          Object {
+            "textAlign": "left",
+          }
+        }
+      >
+        City
+      </th>
+      <th
+        style={
+          Object {
+            "textAlign": "left",
+          }
+        }
+      >
+        Company
+      </th>
+    </tr>
+  </thead>
+  <tbody />
+</table>
+`;
