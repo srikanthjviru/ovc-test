@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+<img src="https://raw.githubusercontent.com/srikanthjviru/ovc-test/master/screenshots/ovc1.JPG" height="400" alt="Demo" />
+<img src="https://raw.githubusercontent.com/srikanthjviru/ovc-test/master/screenshots/ovc2.JPG" height="400" alt="OVC Demo" />
+
 ## Available Scripts
 
 In the project directory, you can run:
