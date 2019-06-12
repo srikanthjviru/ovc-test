@@ -2,7 +2,7 @@ import { createStore, combineReducers, compose, applyMiddleware } from 'redux';
 import thunk from 'redux-thunk';
 import { reducer as root } from './root';
 
-// Enable redux dev tool
+//Redux thunk integration
 const middleware = compose(applyMiddleware(thunk));
 
 // Create redux store
